@@ -42,15 +42,6 @@ Built with **React**, **Vite**, **TailwindCSS**, and **Lucide Icons** — deploy
 | JavaScript   | Logic & Calculations    |
 | Vercel       | Hosting / Deployment    |
 
----
-
-## 📷 Preview
-
-> *(Add a screenshot here later if you want — typically `/public/preview.png`)*
-
-```
-![App Screenshot](./public/preview.png)
-```
 
 ---
 
